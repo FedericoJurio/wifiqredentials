@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+{% block body %}
+    <body>
+        <div class="form-label-group text-center">
+            <img src="{{ url_for('static', path='/img/router.png') }}" alt="WiFi QRedentials" class="mb-5" />
+            <h1 class="h1 mb-3 font-weight-normal">Scan to connect</h1>
+            <img src="{{ qr }}" alt="QR Code" />
+        </div>
+    </body>
+{% endblock %}
