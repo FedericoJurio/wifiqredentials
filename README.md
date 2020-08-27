@@ -4,15 +4,6 @@
 <h3 align="center">WiFi QRedentials</h3>
 <p align="center">Share your WiFi network with your guests via QR!</p>
 
-* [About the Project](#about-the-project)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [FAQ](#faq)
-* [TODO](#todo)
-* [Demo](#demo)
-* [License](#license)
-
 ## About the project
 WiFi QRedentials is a web application made with Python and HTML5. My initial motivation was to take a look at [FastAPI](https://fastapi.tiangolo.com/) by implementing a simple feature other than the well known _Hello World_.
 
