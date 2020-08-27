@@ -12,7 +12,7 @@ class QR(BaseModel):
     def as_form(
         cls,
         ssid: str = Form(...),
-        password: str = Form(...),
+        password: str = Form(''),
         hidden: bool = Form(False),
         encryption: str = Form(...),
     ):
