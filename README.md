@@ -8,6 +8,9 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
+* [FAQ](#faq)
+* [TODO](#todo)
+* [Demo](#demo)
 * [License](#license)
 
 ## About the project
@@ -50,6 +53,7 @@ There's room for improvements such as
 * Allowing the user to download the result as a friendly printable PDF
 * Allowing the user to display the credentials as text as well in the result
 * Adding a go back button in the result's page
+* Making password field required for WPA/WPA2/WEP
 
 ## Demo
 There's a live [demo](http://wifiqredentials.herokuapp.com/) hosted in Heroku.
